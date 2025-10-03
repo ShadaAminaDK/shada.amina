@@ -1,0 +1,3 @@
+Learn how to use my dev setup
+Git and Github
+Learn pull request and branches
